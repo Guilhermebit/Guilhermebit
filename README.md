@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## Who am I ?🤔
 - 👨‍🎓 I have a degree in Systems Analysis and Development.
-- 🔭 I’m currently working on my personal projects such as [Spring Project](https://github.com/Guilhermebit/spring-boot-api).
 - 🌱 I’m currently studying and developing projects using the [Spring Boot](https://github.com/spring-projects/spring-boot) framework.
 - 👨‍💻 Full-time coder.
 - 🚀 Improving myself everyday.
