@@ -1,37 +1,44 @@
 ### Hi there 👋
 ## Who am I ?🤔
 - 👨‍🎓 I have a degree in Systems Analysis and Development.
-- 🌱 I’m currently studying and developing projects using the [Spring Boot](https://github.com/spring-projects/spring-boot) framework.
+- 🌱 I’m currently studying and developing projects using the [Spring](https://github.com/spring-projects) framework.
 - 👨‍💻 Full-time coder.
 - 🚀 Improving myself everyday.
 - 😄 I really enjoy working on projects and developing solutions that help many people.
 
-</br>
+___
 
 ## Tech Stack 🛠
-<a href="https://dev.java/"><img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' alt="java" /></a>
-<a href="https://spring.io/"><img src='https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white' alt="spring" /></a>
-<a href="https://jwt.io/"><img src='https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens' alt="jwt" /></a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
-<a href="https://nodejs.org/en"><img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' alt="nodejs" /></a>
+Backend:
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 
-<a href="https://www.php.net/"><img src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white' alt="php" /></a>
-<a href="https://symfony.com/"><img src='https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white' alt="symfony" /></a>
-<a href="https://codeigniter.com/"><img src='https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white' alt="codeigniter" /></a>
+Frontend:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-<a href="https://www.postgresql.org/"><img src='https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white' alt="postgresql" /></a>
-<a href="https://www.mysql.com/"><img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white' alt="mysql" /></a>
-<a href="https://www.mongodb.com/"><img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt="mongodb" /></a>
+Database:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
+Tools:
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<a href="https://www.postman.com/"><img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white' alt="postman" /></a>
+IDEs:
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-</br>
+___
 
 ## Connect with me 🤝
 
-<a href='https://www.linkedin.com/in/guilherme-bitencurt/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt="linkedin" /></a>
+[![Linkedin: guilherme](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-bitencurt/)](https://www.linkedin.com/in/guilherme-bitencurt/)
+
 
 
 
